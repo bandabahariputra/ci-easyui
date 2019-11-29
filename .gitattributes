@@ -1,3 +1,1 @@
-*.html linguist-detectable=true
-*.js linguist-detectable=true
-*.php linguist-detectable=true
+* linguist-detectable=JavaScript

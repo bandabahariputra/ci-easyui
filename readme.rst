@@ -1,4 +1,6 @@
-# Aplikasi CRUD CodeIgniter 3 dan EasyUI
+####
+Aplikasi CRUD CodeIgniter 3 dan EasyUI
+####
 
 Aplikasi CRUD sederhana menggunakan CodeIgniter 3 dan jQuery EasyUI.
 
@@ -8,7 +10,9 @@ https://codeigniter.com/userguide3/index.html
 
 https://www.jeasyui.com/
 
-## Development server
+****
+Development server
+****
 
 1. Download project ini dan letakkan didalam folder `htdocs`
 
